@@ -13,5 +13,5 @@
 ]]></content>
 	<tabTrigger>tbbuttons:d</tabTrigger>
 	<description>Bootstrap button dropdowns</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

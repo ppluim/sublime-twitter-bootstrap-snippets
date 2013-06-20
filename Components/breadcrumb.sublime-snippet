@@ -14,5 +14,5 @@
 ]]></content>
 	<tabTrigger>tbbreadcrumb</tabTrigger>
 	<description>Bootstrap breadcrumb</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

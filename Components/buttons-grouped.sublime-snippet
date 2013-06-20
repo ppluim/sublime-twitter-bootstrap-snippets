@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>tbbuttons:g</tabTrigger>
 	<description>Bootstrap grouped buttons</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

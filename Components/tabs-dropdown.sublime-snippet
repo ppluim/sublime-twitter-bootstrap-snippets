@@ -17,5 +17,5 @@
 ]]></content>
 	<tabTrigger>tbtabs:d</tabTrigger>
 	<description>Bootstrap tabs with dropdowns</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tbbutton:d</tabTrigger>
 	<description>Bootstrap danger button</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

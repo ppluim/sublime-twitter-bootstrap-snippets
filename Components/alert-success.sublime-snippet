@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>tbalert:s</tabTrigger>
 	<description>Bootstrap success alert</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

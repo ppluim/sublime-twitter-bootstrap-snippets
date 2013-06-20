@@ -8,5 +8,5 @@
 ]]></content>
 	<tabTrigger>tbtabs:s</tabTrigger>
 	<description>Bootstrap basic tabs</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

@@ -17,5 +17,5 @@
 ]]></content>
 	<tabTrigger>tbpills:d</tabTrigger>
 	<description>Bootstrap pills with dropdowns</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

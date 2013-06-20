@@ -30,5 +30,5 @@
 ]]></content>
 	<tabTrigger>tbcarousel</tabTrigger>
 	<description>Bootstrap carousel</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tblabel:s</tabTrigger>
 	<description>Bootstrap success inline label</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

@@ -7,5 +7,5 @@
 ]]></content>
 	<tabTrigger>tbgrid:2</tabTrigger>
 	<description>Bootstrap basic two column grid</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

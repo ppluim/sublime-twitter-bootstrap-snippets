@@ -11,5 +11,5 @@
 ]]></content>
 	<tabTrigger>tbpager</tabTrigger>
 	<description>Bootstrap default pager</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

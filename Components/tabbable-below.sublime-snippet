@@ -17,5 +17,5 @@
 ]]></content>
 	<tabTrigger>tbtabbable:b</tabTrigger>
 	<description>Bootstrap tabbable navigation tabs on the bottom</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tbbadge:if</tabTrigger>
 	<description>Bootstrap info badge</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

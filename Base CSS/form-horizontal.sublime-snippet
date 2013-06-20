@@ -64,5 +64,5 @@
 ]]></content>
 	<tabTrigger>tbform:h</tabTrigger>
 	<description>Bootstrap horizontal form</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

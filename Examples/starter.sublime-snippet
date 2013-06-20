@@ -103,5 +103,5 @@
 ]]></content>
 	<tabTrigger>tbstarter</tabTrigger>
 	<description>Bootstrap starter</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

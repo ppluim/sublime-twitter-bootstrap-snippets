@@ -52,5 +52,5 @@
 ]]></content>
 	<tabTrigger>tbnavbar</tabTrigger>
 	<description>Bootstrap navigation bar</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

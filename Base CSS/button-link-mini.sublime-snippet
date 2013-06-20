@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tblink:m</tabTrigger>
 	<description>Bootstrap mini link button</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

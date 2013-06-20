@@ -103,5 +103,5 @@
 ]]></content>
 	<tabTrigger>tbhero</tabTrigger>
 	<description>Bootstrap hero example</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

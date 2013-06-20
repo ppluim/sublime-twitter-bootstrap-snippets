@@ -19,5 +19,5 @@
 ]]></content>
 	 <tabTrigger>tbtoolbar</tabTrigger>
 	 <description>Bootstrap toolbar</description>
-	 <scope>text.html</scope>
+	 <scope>text.haml</scope>
 </snippet>

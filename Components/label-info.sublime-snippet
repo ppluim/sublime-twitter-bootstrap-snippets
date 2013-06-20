@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tblabel:io</tabTrigger>
 	<description>Bootstrap info inline label</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

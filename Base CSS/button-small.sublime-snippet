@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tbbutton:small</tabTrigger>
 	<description>Bootstrap small button</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

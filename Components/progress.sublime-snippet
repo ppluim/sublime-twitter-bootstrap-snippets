@@ -6,5 +6,5 @@
 ]]></content>
 	<tabTrigger>tbprogress</tabTrigger>
 	<description>Bootstrap basic progress bar</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

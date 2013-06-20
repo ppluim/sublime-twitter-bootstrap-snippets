@@ -10,5 +10,5 @@
 ]]></content>
 	<tabTrigger>tbpills</tabTrigger>
 	<description>Bootstrap basic pills</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

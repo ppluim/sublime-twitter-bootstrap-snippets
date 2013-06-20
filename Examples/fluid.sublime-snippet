@@ -142,5 +142,5 @@
 ]]></content>
 	<tabTrigger>tbfluid</tabTrigger>
 	<description>Bootstrap fluid layout</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

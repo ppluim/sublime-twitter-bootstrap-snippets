@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tblabel</tabTrigger>
 	<description>Bootstrap basic inline label</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

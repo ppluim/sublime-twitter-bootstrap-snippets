@@ -4,5 +4,5 @@
 ]]></content>
 	<tabTrigger>tbbadge:s</tabTrigger>
 	<description>Bootstrap success badge</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>

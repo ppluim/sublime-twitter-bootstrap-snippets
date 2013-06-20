@@ -17,5 +17,5 @@
 ]]></content>
 	<tabTrigger>tbmodal</tabTrigger>
 	<description>Bootstrap modal</description>
-	<scope>text.html</scope>
+	<scope>text.haml</scope>
 </snippet>
