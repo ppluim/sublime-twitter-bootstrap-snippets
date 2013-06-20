@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button class="btn" type="submit">${1:Button}</button>
+%button.btn{:type => "submit"} ${1:Button}
 ]]></content>
 	<tabTrigger>tbbutton</tabTrigger>
 	<description>Bootstrap default button</description>

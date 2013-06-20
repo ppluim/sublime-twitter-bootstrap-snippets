@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button class="btn btn-inverse" type="submit">${1:Button}</button>
+%button.btn.btn-inverse{:type => "submit"} ${1:Button}
 ]]></content>
 	<tabTrigger>tbbutton:i</tabTrigger>
 	<description>Bootstrap inverse button</description>

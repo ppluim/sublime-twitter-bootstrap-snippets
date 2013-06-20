@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<button class="btn btn-success" type="submit">${1:Button}</button>
+%button.btn.btn-success{:type => "submit"} ${1:Button}
 ]]></content>
 	<tabTrigger>tbbutton:s</tabTrigger>
 	<description>Bootstrap success button</description>

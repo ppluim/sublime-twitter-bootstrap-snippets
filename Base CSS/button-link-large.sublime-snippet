@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<a href="${1:#}" class="btn btn-large">${2:Link}</a>
+%a.btn.btn-large{:href => "${1:#}"} ${2:Link}
 ]]></content>
 	<tabTrigger>tblink:l</tabTrigger>
 	<description>Bootstrap large link button</description>

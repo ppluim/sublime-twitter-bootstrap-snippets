@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<a href="${1:#}" class="btn btn-mini">${2:Link}</a>
+%a.btn.btn-mini{:href => "${1:#}"} ${2:Link}
 ]]></content>
 	<tabTrigger>tblink:m</tabTrigger>
 	<description>Bootstrap mini link button</description>
