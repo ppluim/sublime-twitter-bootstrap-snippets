@@ -1,8 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<div class="progress">
-	<div class="bar" style="width: 60%;"></div>
-</div>
+.progress
+  .bar{:style => "width: 60%;"}
 ]]></content>
 	<tabTrigger>tbprogress</tabTrigger>
 	<description>Bootstrap basic progress bar</description>

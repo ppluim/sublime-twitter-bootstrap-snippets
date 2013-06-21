@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<span class="label">${1:Default}</span>
+%span.label ${1:Default}
 ]]></content>
 	<tabTrigger>tblabel</tabTrigger>
 	<description>Bootstrap basic inline label</description>

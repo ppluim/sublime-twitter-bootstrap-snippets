@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<span class="label label-info">${1:Info}</span>
+%span.label.label-info ${1:Info}
 ]]></content>
 	<tabTrigger>tblabel:io</tabTrigger>
 	<description>Bootstrap info inline label</description>

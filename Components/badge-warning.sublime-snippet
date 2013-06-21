@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<span class="badge badge-warning">${1:4}</span>
+%span.badge.badge-warning ${1:4}
 ]]></content>
 	<tabTrigger>tbbadge:w</tabTrigger>
 	<description>Bootstrap warning badge</description>

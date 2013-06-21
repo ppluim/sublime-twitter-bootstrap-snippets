@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<span class="badge badge-info">${1:8}</span>
+%span.badge.badge-info ${1:8}
 ]]></content>
 	<tabTrigger>tbbadge:if</tabTrigger>
 	<description>Bootstrap info badge</description>

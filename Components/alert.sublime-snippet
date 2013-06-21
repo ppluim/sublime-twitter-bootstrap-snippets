@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<div class="alert">
-	<a class="close" data-dismiss="alert">&times;</a>
-	<strong>${1:Warning!}</strong> ${2:Best check yo self, you're not looking too good}.
-</div>
+.alert
+  %a.close{"data-dismiss" => "alert"} &times;
+  %strong ${1:Warning!}
+  ${2:Best check yo self, you're not looking too good}.
+
 ]]></content>
 	<tabTrigger>tbalert</tabTrigger>
 	<description>Bootstrap default alert</description>

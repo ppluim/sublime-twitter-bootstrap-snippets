@@ -1,6 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<span class="badge badge-error">${1:6}</span>
+%span.badge.badge-error ${1:6}
+
 ]]></content>
 	<tabTrigger>tbbadge:e</tabTrigger>
 	<description>Bootstrap error badge</description>

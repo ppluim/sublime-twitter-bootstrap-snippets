@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<span class="label label-warning">${1:Warning}</span>
+%span.label.label-warning ${1:Warning}
 ]]></content>
 	<tabTrigger>tblabel:w</tabTrigger>
 	<description>Bootstrap warning inline label</description>

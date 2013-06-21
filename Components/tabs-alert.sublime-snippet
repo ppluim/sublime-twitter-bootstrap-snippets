@@ -1,12 +1,13 @@
 <snippet>
 	<content><![CDATA[
-<ul class="nav nav-tabs">
-	<li class="active">
-		<a href="#">${1:Home}</a>
-	</li>
-	<li><a href="#">${2:Profile}</a></li>
-	<li><a href="#">${3:Messages}</a></li>
-</ul>
+%ul.nav.nav-tabs
+  %li.active
+    %a{:href => "#"} ${1:Home}
+  %li
+    %a{:href => "#"} ${2:Profile}
+  %li
+    %a{:href => "#"} ${3:Messages}
+
 ]]></content>
 	<tabTrigger>tbtabs</tabTrigger>
 	<description>Bootstrap basic tabs</description>

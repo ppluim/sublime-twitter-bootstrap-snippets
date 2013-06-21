@@ -1,10 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<div class="row">
-	<div class="span4">${1:Column 1}</div>
-	<div class="span4">${2:Column 2}</div>
-	<div class="span4">${3:Column 3}</div>
-</div>
+.row
+  .span4 ${1:Column 1}
+  .span4 ${2:Column 2}
+  .span4 ${3:Column 3}
+
 ]]></content>
 	<tabTrigger>tbgrid:3</tabTrigger>
 	<description>Bootstrap basic three column grid</description>

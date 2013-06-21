@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<span class="label label-success">${1:Success}</span>
+%span.label.label-success ${1:Success}
 ]]></content>
 	<tabTrigger>tblabel:s</tabTrigger>
 	<description>Bootstrap success inline label</description>

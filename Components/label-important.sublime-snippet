@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-<span class="label label-important">${1:Important}</span>
+%span.label.label-important ${1:Important}
 ]]></content>
 	<tabTrigger>tblabel:it</tabTrigger>
 	<description>Bootstrap important inline label</description>

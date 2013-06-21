@@ -1,8 +1,7 @@
 <snippet>
 	<content><![CDATA[
-<div class="progress progress-striped">
-	<div class="bar" style="width: 60%;"></div>
-</div>
+.progress.progress-striped
+  .bar{:style => "width: 60%;"}
 ]]></content>
 	<tabTrigger>tbprogress:s</tabTrigger>
 	<description>Bootstrap stripped progress bar</description>

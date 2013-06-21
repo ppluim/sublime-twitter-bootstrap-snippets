@@ -1,9 +1,10 @@
 <snippet>
 	<content><![CDATA[
-<div class="alert alert-success">
-	<a class="close" data-dismiss="alert">&times;</a>
-	<strong>${1:Success!}</strong> ${2:You successfully read this important alert message.}
-</div>
+.alert.alert-success
+  %a.close{"data-dismiss" => "alert"} &times;
+  %strong ${1:Success!}
+  ${2:You successfully read this important alert message.}
+
 ]]></content>
 	<tabTrigger>tbalert:s</tabTrigger>
 	<description>Bootstrap success alert</description>
