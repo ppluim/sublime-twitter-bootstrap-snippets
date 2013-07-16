@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-%button.btn.btn-danger{:type => "submit"} ${1:Button}
+%button.btn.btn-danger{type: "submit"} ${1:Button}
 ]]></content>
 	<tabTrigger>tbbutton:d</tabTrigger>
 	<description>Bootstrap danger button</description>
